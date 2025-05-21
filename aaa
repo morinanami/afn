@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex">
+     <link rel="stylesheet" href="./kami.css" type="text/css" />	
+    <title>アフヌンの候補&#127800;</title>
+   </head>
+  <body>
+
+    <div class="kakomi-kage3">
+  <h3>&#127800;札幌・大通り圏&#127800;</h3>
+
+</br>
+
+<table>
+  <tr>
+    <th class="fixed01">　</th>
+    <th class="fixed02">JRタワーホテル日航札幌</th>
+    <th class="fixed02">TOKYU HOTELS</th>
+    <th class="fixed02">ANAクラウンプラザホテル札幌</th>
+    <th class="fixed02">札幌グランドホテル</th>
+    <th class="fixed02">場所見出し</th>
+  </tr>
+  <tr>
+    <th class="fixed02">HP</th>
+    <td><a href="https://www.jrhotels.co.jp/tower/restaurant/lounge/"target="_blank">リンク</a></td>
+    <td><a href="https://www.tokyuhotels.co.jp/sapporostream/restaurant/splish/plan/afternoon-Tea_pearl-jewelry/index.html"target="_blank">リンク</a></td>
+    <td><a href="https://www.anacpsapporo.com/restaurant/sapporo_view/"target="_blank">リンク</a></td>
+    <td><a href="https://grand1934.com/restaurant/lobby-lounge-mizar/afternoon-02/"target="_blank">リンク</a></td>
+    <td><a href="null"target="_blank">リンク</a></td>
+  </tr>
+  <tr>
+    <th class="fixed02">場所</th>
+    <td>札幌駅直結</td>
+    <td>すすきの駅直結</td>
+    <td>札幌駅徒歩１分</td>
+    <td>チカホ（札幌駅）直結</td>
+    <td>テキスト1</td>
+  </tr>
+  <tr>
+    <th class="fixed02">価格帯（おひとりで税込＊時間）</th>
+    <td>3500円＊120分</td>
+    <td>平日5500円、土日祝日・ディナータイム6000円＊不明 </td>
+    <td>平日4000円、土日祝4200円＊150分（平日240分）</td>
+    <td>4000円（プラス ¥1,100で今月のミニパフェ付き）＊120分</td>
+    <td>テキスト2</td>
+  </tr>
+  <tr>
+    <th class="fixed02">名称</th>
+    <td>Green Afternoon Tea Set</td>
+    <td>STREAM Afternoon Tea～Pearl Jewelry（パールジュエリー）</td>
+    <td>しばわんこの夏やすみ</td>
+    <td>5月パステルカラー／6月トロピカルフルーツ</td>
+    <td>テキスト3</td>
+  </tr>
+  <tr>
+    <th class="fixed02">イメージ画像</th>
+    <td><img src="https://cdn3.tablecheck.com/menu_items/664477120505013b14cdf374/images/md/fca10f39.jpg?1745298289" width="230" height="230">
+    </td>
+    <td><img src="https://www.tokyuhotels.co.jp/sapporostream/stream_afternoon_tea_202505_1.jpg" width="230" height="230"></td>
+    <td><img src="https://www.anacpsapporo.com/s_img/20250513112939_rest_BQQDWtzYCRqwpR1S.jpg" width="230" height="230"></td>
+    <td><img src="https://grand1934.com/uploads/2019/10/04a46f39ebab6812158b18bf1d58945b-5-e1747011916886.jpg" width="230" height="230"></td>
+    <td><img src="null" width="230" height="230"></td>
+  </tr>
+  <tr>
+    <th class="fixed02">フードメニュー</th>
+    <td>ライムのチーズケーキ／青りんごのムース／キウイタルト／抹茶のブランマンジェグリーンピースのブランマンジェと甘エビのマリネ／アボカドとサーモンのブルスケッタ／合鴨とグリーンアスパラバルサミコ風味羊のクロケット／蝦夷鹿のペンネグラタン／なばなとモッツァレラチーズの春巻きファンデュ／抹茶のスコーン／黒豆バゲット自家製デュカとオイル／バターミルクスプレット／クロテッドクリーム</td>
+    <td>貝殻チョコと白いコーヒームース／琥珀糖／白いマカロン／ホワイトチョコトリュフ／イチゴのタルト／エルダーフラワーのゼリー／ヌガー風ムースケーキ／スコーン／桃のコンフィチュール／巨大真珠のレアチーズムース／海老とブロッコリーのキッシュ／ホタテのマリネ クスクスのサラダ／ヴィシソワーズ 生ハムのセック添え　など</td>
+    <td>■スイーツ・しばわんムース・ココナッツロールケーキ・メイプルシュークリーム・マンゴーとチーズのガトー・ベリームース＆ピスタチオタルト・ブルーハワイゼリー・オペラ・バナナタルト・マカロン・アイシングクッキー■セイボリー・ペストリー特製ブレッドとANA復刻カレーソースのマッシュポテトサンド・ガルバンゾとカラフル野菜のマリネ・鴨肉のピンチョス・本日のおすすめ1品■お口直し-コンソメスープ・梅昆布茶・グリーンオリーブ■ハーゲンダッツ4種</td>
+    <td>5月　最初の一皿・ピスタチオマカロン・抹茶シュークリーム・キウイフルーツタルト・グレープフルーツジュレ・ピスタチオケーキ・レモンムース・レモンマカロン・グレープフルーツコンポート・プレーンスコーン・マーマレードジャム・マスカルポーネクリーム・ハムエッグサンドウィッチまたはツナサラダサンドウィッチ　　6月　・最初の一皿・バタフライピージュレ・パイナップルタルト・マカロンバニーユ・カッサータ・ココナッツヴェリーヌ・バナナブレッド・オレンジフロマージュ・トロピカルフルーツ・プレーンスコーン・マーマレードジャム・マスカルポーネクリーム・ポテトサラダサンドウィッチまたは生ハムサンドウィッチ</td>
+    <td>テキスト5</td>
+  </tr>
+  <tr>
+    <th class="fixed02">ドリンク</th>
+    <td>モカルバリエ（アッサム）／ルクールダージリン／アールグレイ／アイスティーピーチガーデン／カモミール／ラベンダー／ローズレッド／ブレンドコーヒー（ネルドリップ）／アイスコーヒー（水出しコーヒー）／コールドクレマコーヒー／コールドクレマコーヒーカフェオレ／おすすめノンアルコールカクテル</td>
+    <td>ロイヤルダージリンティー／フレンチアールグレイ／バニラブルボンティー／オリエントエクスプレスティー／ポムプレスティージューティー／1837ブラックティー／アニバーサリーティー／カクテルアワーティー／1837グリーンティー／シルバームーンティー／丸美珈琲監修　スペシャルティコーヒー（HOT）／アイスコーヒー／カフェオレ（HOT・ICE）／スパークリングウォーター </td>
+    <td>・ロイヤルダージリン・ブラックティー・アールグレイ・グランドジャスミン・シルバームーン・ミッドナイトアワー（カフェインレス）・バニラブルボン・カモミール・イングリッシュブレックファースト・アイスティー（シルバームーン・アールグレイ）・ブレンドコーヒー・カフェラテ・カプチーノ・カフェインレスコーヒー・アイスコーヒー・アイスカフェオレ・オレンジジュース・リンゴジュース・モクテル／白桃とパッションフルーツのベリーニ（ノンアルコール）</td>
+    <td>●5月のスペシャルブレンドbyルピシアヤミーフレッシュなストロベリーとリッチなバニラをイメージし、ルイボスに香りづけをしたフレーバードティー。包み込まれるような優しい飲み口は、ミルクを加えるとさらにまろやかにお愉しみいただけます。●札幌グランドホテルオリジナルブレンドティーグランドアールグレイ爽やかなベルガモットにりんごの香りが重なるアールグレイ。北海道の雄大な自然を思わせる清々しい余韻の紅茶です。●セイロン●ダージリン●アールグレイ●バタフライピーティー●ルイボスティー※コーヒー・緑茶もお選びいただけます</td>
+    <td>テキスト6</td>
+  </tr>
+  <tr>
+    <th class="fixed02">備考</th>
+    <td>1日5組限定　12：00～14：00まで</td>
+    <td>ティータイムは1日10セット、ディナータイムは1日5セット限定</td>
+    <td>土日は11:30 am～2:00 pm、2:30 pm～5:00 pmで各36組限定</td>
+    <td>1日30食限定＊これとは別でカクテルを中心とした夜のメニュー（4500円）もあり</td>
+    <td>テキスト7</td>
+  </tr>
+</table>
+
+<div class="kakomi-kage3">
+  <h3>もしかしたらアクセスは悪くなるかもしれませんが、、、</h3>
+<p><a href="https://www.kinotoya.com/shop_list/shiroishi/"target="_blank">きのとや（2500円・東西線白石駅5番出口より徒歩5分）</a></p> 
+<p><a href="https://park1964.com/rest/piare/afternoon-tea/"target="_blank">札幌パークホテル（3500円・南北線中島公園駅直結）</a></p>
+<p><a href="https://newotanisapporo.com/restaurant-list/afternoon-tea-sweets20250506/"target="_blank">ホテルニューオータニイン札幌（3500円・JR札幌駅より8分）</a></p> 
+<p><a href="https://www.princehotels.co.jp/sapporo/plan/fuyojo/chineseafternoontea/"target="_blank">札幌プリンスホテル（3000円・大通り駅徒歩15分）</a></p>
+<p><a href="https://the-gardensapporo.jp/menu/"target="_blank">ザガーデン札幌（2750円・大通り駅直結）</a></p>
+</div>
+</br>
+</body>
+  
+</html>
